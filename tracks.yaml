@@ -102,4 +102,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/gstavrinos/odom_to_tf_ros2.git
-    version: :{auto}
+    version: 1.0.2
+    version_saved: :{auto}
