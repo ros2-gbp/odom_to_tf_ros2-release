@@ -1,3 +1,26 @@
+## odom_to_tf_ros2 (humble) - 1.0.3-2
+
+The packages in the `odom_to_tf_ros2` repository were released into the `humble` distro by running `/usr/bin/bloom-release -y --no-web --ros-distro humble --override-release-repository-push-url https://github.com/ros2-gbp/odom_to_tf_ros2-release.git odom_to_tf_ros2` on `Sat, 16 Nov 2024 13:49:33 -0000`
+
+The `odom_to_tf_ros2` package was released.
+
+Version of package(s) in repository `odom_to_tf_ros2`:
+
+- upstream repository: https://github.com/gstavrinos/odom_to_tf_ros2.git
+- release repository: https://github.com/ros2-gbp/odom_to_tf_ros2-release.git
+- rosdistro version: `1.0.2-1`
+- old version: `1.0.3-1`
+- new version: `1.0.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## odom_to_tf_ros2 (rolling) - 1.0.3-3
 
 The packages in the `odom_to_tf_ros2` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -y --no-web --ros-distro rolling --override-release-repository-push-url https://github.com/ros2-gbp/odom_to_tf_ros2-release.git odom_to_tf_ros2` on `Sat, 16 Nov 2024 13:48:07 -0000`
