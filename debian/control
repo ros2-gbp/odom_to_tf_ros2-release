@@ -1,0 +1,13 @@
+Source: ros-jazzy-odom-to-tf-ros2
+Section: misc
+Priority: optional
+Maintainer: George Stavrinos <gstavrinos@protonmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-geometry-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-odom-to-tf-ros2
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-geometry-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros, ros-jazzy-ros-workspace
+Description: A simple ros2 package (node) that reads an odom topic and generates the equivalent tf connection (transformation).
+ It also provides options to override frame names, or just use the ones in the original odom topic.
