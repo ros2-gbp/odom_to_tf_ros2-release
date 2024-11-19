@@ -1,3 +1,26 @@
+## odom_to_tf_ros2 (jazzy) - 1.0.4-1
+
+The packages in the `odom_to_tf_ros2` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -y --no-web --ros-distro jazzy --override-release-repository-push-url https://github.com/ros2-gbp/odom_to_tf_ros2-release.git odom_to_tf_ros2` on `Tue, 19 Nov 2024 16:15:50 -0000`
+
+The `odom_to_tf_ros2` package was released.
+
+Version of package(s) in repository `odom_to_tf_ros2`:
+
+- upstream repository: https://github.com/gstavrinos/odom_to_tf_ros2.git
+- release repository: https://github.com/ros2-gbp/odom_to_tf_ros2-release.git
+- rosdistro version: `1.0.3-2`
+- old version: `1.0.3-2`
+- new version: `1.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## odom_to_tf_ros2 (humble) - 1.0.4-1
 
 The packages in the `odom_to_tf_ros2` repository were released into the `humble` distro by running `/usr/bin/bloom-release -y --no-web --ros-distro humble --override-release-repository-push-url https://github.com/ros2-gbp/odom_to_tf_ros2-release.git odom_to_tf_ros2` on `Tue, 19 Nov 2024 16:14:19 -0000`
